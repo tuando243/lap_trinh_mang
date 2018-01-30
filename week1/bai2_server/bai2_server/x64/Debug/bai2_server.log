@@ -1,0 +1,4 @@
+﻿  server.cpp
+d:\code\c++\lap trinh mang\ltm - 20172\week1\bai2_server\bai2_server\server.cpp(37): error C2440: 'initializing': cannot convert from 'const char [3]' to 'char *'
+  d:\code\c++\lap trinh mang\ltm - 20172\week1\bai2_server\bai2_server\server.cpp(37): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+d:\code\c++\lap trinh mang\ltm - 20172\week1\bai2_server\bai2_server\server.cpp(38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
