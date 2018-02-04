@@ -1,0 +1,4 @@
+﻿  client.cpp
+d:\code\c++\lap trinh mang\ltm - 20172\week1\bai3_client\bai3_client\client.cpp(32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+  bai3_client.vcxproj -> D:\code\c++\lap trinh mang\LTM - 20172\week1\bai3_client\Debug\bai3_client.exe
