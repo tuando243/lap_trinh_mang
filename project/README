@@ -1,7 +1,7 @@
 Các chức năng của FTP Client
 pwd: In ra thư mục đang làm việc hiện hành ở remote server
 cd : Thay đổi thư mục đang làm việc hiện hành ở remote server
-quit: thoát, tắt kết nối.
+quit: Thoát, tắt kết nối.
 get: Download file
 put: Upload file
 mkdir: Tạo thư mục
@@ -9,5 +9,4 @@ rmdir: Xóa thư mục rỗng
 mrmdir: Xóa thư mục không rỗng
 delete: Xóa 1 file trên remote server
 ls: In ra danh sách các file trên remote server
-exit: thoát đóng kết nối
 help: Hiển thị các lệnh cho người dùng biết
